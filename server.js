@@ -1,5 +1,5 @@
 const http = require('http')
-const message = 'Hello World from Node\n'
+const message = 'Node app is running successfully\n'
 
 // Configure our HTTP server to respond with Hello World to all requests.
 const server = http.createServer(function (request, response) {
