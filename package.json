@@ -4,7 +4,7 @@
   "description": "Azure pipeline form github",
   "main": "server.js",
   "scripts": {
-    "test": "npm start",
+    "test": "node server.js",
     "start": "node server.js"
   },
   "repository": {
