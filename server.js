@@ -1,4 +1,4 @@
-const http = require('http')lication
+const http = require('http');
 const message = 'Node application is running successfully\n'
 
 // Configure our HTTP server to respond with Hello World to all requests.
